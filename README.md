@@ -1,5 +1,5 @@
 # Teaching-robotics
-As Vice-President of the Coding and Robotics Society, one of my main functions is to give lectures on how to programme robotic systems to perform the actions we want them to perform.
+As Vice-President of the Coding and Robotics Society, one of my main functions is to give lectures on how to programme robotic systems to perform the actions we, as creators, want them to perform.
 
 # ·IN _1st_day_LED.ino
 Simple method to represent the traffic lights colour change for non-experienced students.
